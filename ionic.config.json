@@ -1,0 +1,10 @@
+{
+  "name": "MyChharo",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
